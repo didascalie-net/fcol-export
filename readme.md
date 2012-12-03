@@ -2,9 +2,6 @@
 ---
 ## Simple app to export media from a fcol files made with VDMX
 
-## Startup : 
-Rename your fi
-
 ## Change Log : 
 
 ### Version 0.1: 
