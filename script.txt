@@ -1,1 +1,2 @@
-open thispatcherinclude "work:/Users/renaudrubiano/Documents/SVNs/tapemovie2/tapemovie-lib/externals_OSX/Shell UB/shell.mxo"include "work:/Applications/Max6/Cycling '74/dot_max5_20111005/dot.xmlread2.maxpat"include "work:/Applications/Max6/Cycling '74/dot_max5_20111005/dot.properties.maxpat"
+open thispatcher
+include "work:/Applications/Max5/Cycling '74/Jamoma/Dependencies/shell/shell.mxo"
